@@ -1,11 +1,11 @@
 ---
 name: Zicheng (Jeremy) Xu
-image: images/photo.jpg
+image: images/JeremyXu.jpg
 description: Undergraduate Student
 role: phd
-affiliation: Johns Hopkins University
+affiliation: Johns Hopkins University and Rice University
 links:
-  email: zx32@rice.edu 
+  email: zxu161@jh.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Jeremy is currently a senior undergraduate at Rice University studying Computer Science and Mathematical Economics Analysis. He is an incoming PhD student at Johns Hopkins University. His research focuses on trustworthy LLM and medical machine learning. 
